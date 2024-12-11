@@ -27,3 +27,6 @@ end
 puts distances.inspect
 
 puts "answer is #{distances.sum}"
+
+
+## part two
